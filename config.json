@@ -1,0 +1,13 @@
+{
+    "openai_key": "",
+    "modules": [
+        "counter",
+        "listview",
+        "post_login",
+        "post_main_navigation",
+        "post_product_list",
+        "post_product_form",
+        "post_order",
+        "post_order_list"
+    ]
+}
